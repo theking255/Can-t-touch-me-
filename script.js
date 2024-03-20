@@ -1,3 +1,6 @@
+
+console.log('barka mata5rb hna, Charak thawas hna')
+
 const evilButton = document.getElementById('evil-button')
 const OFFSET = 100
 
